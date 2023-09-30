@@ -31,7 +31,7 @@ Nesse curso voce vai dominar todo **git** ao **gitjub** _do zero ao profissional
 > Segundaarea destacada.
 
 
-**Comando para rodar o projeto:**
+### Comando para rodar o projeto:
 ```
 npm start
 ```
