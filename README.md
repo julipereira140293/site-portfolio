@@ -63,8 +63,8 @@ function showname(name{
 
 Propriedade | Descrição
 ----------- | ---------
-name | Para informar o nome do usuário
+name | Para informar o **nome** do usuário
 size | Para definir o tamanho do campo
-background | cor de fundo da area em HEX
+background | cor de fundo da area em _HEX_
 onPress | função chamada quando clicar no botao
 
