@@ -20,3 +20,7 @@ Nesse curso voce vai dominar todo **git** ao **gitjub** _do zero ao profissional
 [Instagram](https://instagram.com/instagram)
 
 [Youtube](https://www.youtube.com/)
+
+>Este é um blockquote usando para destacar alguma área.
+>
+> Segundaarea destacada.
